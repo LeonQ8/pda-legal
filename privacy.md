@@ -11,6 +11,7 @@ game stores about you, why, and what you can do about it. Short version: **no ad
 We keep what the game needs to work, and nothing else.
 
 ## What we store
+
 | What | Why | Where it comes from |
 |---|---|---|
 | A game account id and a random id for your device | to keep your captain between sessions | created by the game |
